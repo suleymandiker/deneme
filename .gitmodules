@@ -1,0 +1,3 @@
+[submodule "subFolder"]
+	path = subFolder
+	url = https://github.com/suleymandiker/deneme.git
